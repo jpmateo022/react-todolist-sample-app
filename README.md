@@ -1,4 +1,4 @@
-#Todo List Sample React Application
+<h3>Todo List Sample React Application</h3>
 
 ---
 A sample react application that allows you to add, delete, and mark task as completed.
